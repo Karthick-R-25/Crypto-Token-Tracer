@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Crypto-Token-Tracer/static/css/main.eebed39b.css",
+    "main.js": "/Crypto-Token-Tracer/static/js/main.9b1e1911.js",
+    "static/js/453.d8165492.chunk.js": "/Crypto-Token-Tracer/static/js/453.d8165492.chunk.js",
+    "static/media/floki-inu-floki-logo.png": "/Crypto-Token-Tracer/static/media/floki-inu-floki-logo.75eecff6139df88a7e42.png",
+    "static/media/cosmos-atom-logo.png": "/Crypto-Token-Tracer/static/media/cosmos-atom-logo.2c9ee82d120ccf6b5729.png",
+    "static/media/ethereum-eth-logo.png": "/Crypto-Token-Tracer/static/media/ethereum-eth-logo.a85b6de0dc4a013ae2f8.png",
+    "static/media/tron-trx-logo.png": "/Crypto-Token-Tracer/static/media/tron-trx-logo.ab0b5d93562633abcc22.png",
+    "static/media/bitcoin-btc-logo.png": "/Crypto-Token-Tracer/static/media/bitcoin-btc-logo.82491fef997ab841639c.png",
+    "static/media/pattern-1.png": "/Crypto-Token-Tracer/static/media/pattern-1.6c2b9a8120d81c74ac5d.png",
+    "static/media/pattern-2.png": "/Crypto-Token-Tracer/static/media/pattern-2.18775d399aaa40b3a554.png",
+    "static/media/pattern-6.png": "/Crypto-Token-Tracer/static/media/pattern-6.e5298c68973edb869f24.png",
+    "static/media/pattern-3.png": "/Crypto-Token-Tracer/static/media/pattern-3.8e2366dc8037ef7dd95c.png",
+    "static/media/toncoin-ton-logo.png": "/Crypto-Token-Tracer/static/media/toncoin-ton-logo.421ca4716226cff17f56.png",
+    "static/media/pattern-5.png": "/Crypto-Token-Tracer/static/media/pattern-5.e7b4e7d371df46632437.png",
+    "static/media/pattern-4.png": "/Crypto-Token-Tracer/static/media/pattern-4.26cb79b7b4172e1eef5d.png",
+    "index.html": "/Crypto-Token-Tracer/index.html",
+    "main.eebed39b.css.map": "/Crypto-Token-Tracer/static/css/main.eebed39b.css.map",
+    "main.9b1e1911.js.map": "/Crypto-Token-Tracer/static/js/main.9b1e1911.js.map",
+    "453.d8165492.chunk.js.map": "/Crypto-Token-Tracer/static/js/453.d8165492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebed39b.css",
+    "static/js/main.9b1e1911.js"
+  ]
+}
