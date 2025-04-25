@@ -20,6 +20,11 @@ Builds the app for production in the `build/` folder.
 Optimized for performance and ready to deploy.
 
 ---
+# 🚀 Crypto Token Tracer
+
+🔗 **Live Demo**: [https://karthick-r-25.github.io/Crypto-Token-Tracer/](https://karthick-r-25.github.io/Crypto-Token-Tracer/)
+
+This is a real-time cryptocurrency dashboard that displays token data with randomized price, 24h %, and volume updates every 2 seconds using Redux and setInterval. Designed for performance, clarity, and interactivity.
 
 ## 🧠 Project Overview
 
